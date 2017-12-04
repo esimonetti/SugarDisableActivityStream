@@ -1,0 +1,4 @@
+[submodule "SugarModulePackager"]
+	path = SugarModulePackager
+	url = https://github.com/esimonetti/SugarModulePackager.git
+	branch = master
