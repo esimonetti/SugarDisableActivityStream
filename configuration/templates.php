@@ -1,7 +1,7 @@
 <?php
 
 $templates['disable_activity_stream'] = array(
-    'folder_pattern' => 'custom/Extension/modules/{MODULENAME}/Ext',
+    'directory_pattern' => 'custom/Extension/modules/{MODULENAME}/Ext',
     'modules' => array(
         'Accounts' => 'Account',
         'Bugs' => 'Bug',
